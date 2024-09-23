@@ -14,13 +14,16 @@ This Power BI dashboard provides actionable insights and recommendations to help
 
 ## Dashboard Screenshots
 
-![Overview](./images/overview.png)
+![image](https://github.com/user-attachments/assets/728f70c9-7169-45be-b194-f4976ea96816)
+
 *Overview of key metrics and churn rate* 📊
 
-![Demographic Analysis](./images/demographics.png)
-*Churn patterns by customer demographics* 👨‍👩‍👧‍👦
+![image](https://github.com/user-attachments/assets/d1c7cbf0-25b6-472d-b4cf-1310d284858d)
 
-![Service Usage](./images/service_usage.png)
+*Churn patterns demographics* 
+
+![image](https://github.com/user-attachments/assets/0fae7722-208e-4e15-a7a4-b892ec2d3a77)
+
 *Impact of service subscriptions on churn* 📱
 
 ## Churn Reduction Strategies
